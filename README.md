@@ -1,6 +1,6 @@
 # PROJECT-WEB-PROGRAMMING-SIMBADA-SIM-ONLINE-BERBASIS-PHP
 SEMOGA BERKAH DAN BERMANFAAT. TERIMAKASIH.
-# Screenshot
+# SCREENSHOT
 ![Screenshot_2019-07-14-23-03-16-64](https://user-images.githubusercontent.com/37017392/61214441-15f39880-a732-11e9-816c-749c9de05e11.png)
 ![Screenshot_2019-07-14-23-04-32-06](https://user-images.githubusercontent.com/37017392/61214422-12f8a800-a732-11e9-941e-e6f6d9f83772.png)
 ![Screenshot_2019-07-15-01-25-13-84](https://user-images.githubusercontent.com/37017392/61214424-13913e80-a732-11e9-891d-81c7349f2d6a.png)
